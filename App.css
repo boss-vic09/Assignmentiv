@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: slateblue;
+  
+}
+
+h1{
+  background-color: yellow;
+  text-align: center;
+}
+
+li{
+  padding: 10px;
+  font-size: 2rem;
+}
+
+
+/*
+.container {
+  border: 1px solid slateblue;
+  border-radius: 50%;
+  height: 6em;
+  padding: 1.5em;
+  text-align: center;
+  font-size: 3em;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: sans-serif;
+  background-color: skyblue;
+}
+
+.buuton {
+  border-radius: 10px;
+  border: 1px solid blue;
+  margin: 15px;
+  padding: 0.6em 1.2em;
+  color: white;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  transition: border-color 0.25s;
+  padding: 2em;
+}
